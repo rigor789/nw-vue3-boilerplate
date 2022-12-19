@@ -24,3 +24,10 @@ coverage
 *.njsproj
 *.sln
 *.sw?
+
+# NativeScript
+hooks/
+node_modules/
+platforms/
+tmp/
+typings/
